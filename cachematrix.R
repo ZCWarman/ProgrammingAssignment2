@@ -5,7 +5,7 @@
 ## "cacheSolve") that cache the inverse of a matrix.
 
 ## Write a short comment describing this function
-## "makeCacheMatrix" is a funciton that creates a special "matrix" which
+## "makeCacheMatrix" is a function that creates a special "matrix" which
 ## caches the inverse for the input (an invertible square matrix)
 
 makeCacheMatrix <- function(x = matrix()) {
